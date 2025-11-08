@@ -1,6 +1,3 @@
-Here’s a complete, professional README.md in English, incorporating your description, installation, and usage instructions:
-markdown
-
 ````
 # Laravel .env Scanner
 
@@ -23,15 +20,9 @@ markdown
    ```bash
    git clone https://github.com/username/Laravel-env-scanner.git
    cd Laravel-env-scanner
-````
 
 2. Install the required dependencies:
-   bash
-
-2) pip3 install -r requirements.txt
-
-Usage
-bash
+   bash : pip3 install -r requirements.txt
 
 ```
 python3 env-scanner.py [file] [-t THREADS] [--timeout TIMEOUT] [-o OUTPUT]
@@ -66,18 +57,4 @@ License
 MIT License
 text
 
-````
----
-
-**Save this as `README.md`** in your project root.  
-Make sure you have:
-- `requirements.txt`
-- `env-scanner.py`
-- Example `subdomains.txt` (optional, for demo)
-
-Then commit and push:
-```bash
-git add README.md
-git commit -m "Add complete English README with usage"
-git push
 ````
