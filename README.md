@@ -51,10 +51,9 @@ This command:
 
 Output
 Each line in the output file contains a full URL where a .env file was found and accessible (HTTP 200).
-Disclaimer
-This tool is intended for authorized security testing only. Do not use it on systems you do not own or have explicit permission to test. The author is not responsible for misuse.
-License
-MIT License
-text
 
+Disclaimer !!!
+{ WARNING: FOR LEGAL AND ETHICAL USE ONLY }
+
+This tool is exclusively intended for authorized security testing on systems you own or have explicit written permission to test (e.g., bug bounty programs, penetration testing contracts, internal red teaming).
 ````
